@@ -28,7 +28,7 @@ import com.rab3tech.vo.LoginVO;
 
 /**
  * 
- * @author nagendra
+ * @author  renuka
  * This class for customer GUI
  *
  */
